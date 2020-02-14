@@ -1,0 +1,11 @@
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\bin\Debug\Counter_5x5.exe.config
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\bin\Debug\Counter_5x5.exe
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\bin\Debug\Counter_5x5.pdb
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\bin\Debug\Counter_5x5.xml
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\obj\Debug\Counter_5x5.vbprojAssemblyReference.cache
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\obj\Debug\Counter_5x5.Form1.resources
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\obj\Debug\Counter_5x5.Resources.resources
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\obj\Debug\Counter_5x5.vbproj.GenerateResource.cache
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\obj\Debug\Counter_5x5.exe
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\obj\Debug\Counter_5x5.xml
+C:\Users\4\source\repos\Counter_5x5\Counter_5x5\obj\Debug\Counter_5x5.pdb
